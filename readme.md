@@ -12,6 +12,7 @@ I have tried my best to sort all those problems for you and ordered them as well
   - [Binary Tree](#binary-tree)
   - [Binary Search Tree](#binary-search-tree)
   - [Heap and Priority Queue](#heap-and-priority-queue)
+  - [Graphs](#graph)
 - [Algorithms](#algorithms)
   - [Binary Search](#binary-search)
   - [Dynamic Programming](#dynamic-programming)
@@ -37,6 +38,18 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 10     | Next Permutation               |   [LeetCode](https://leetcode.com/problems/next-permutation/)  , [InterviewBit](https://www.interviewbit.com/problems/next-permutation/)      |
 | 11     | Merge Overlapping Intervals              |   [LeetCode](https://leetcode.com/problems/merge-intervals/) , [InterviewBit](https://www.interviewbit.com/problems/merge-intervals/), [GFG](https://www.interviewbit.com/problems/merge-intervals/) |
 | 12     | First Missing Positive               |   [LeetCode](https://leetcode.com/problems/first-missing-positive/)  , [InterviewBit](https://www.interviewbit.com/problems/first-missing-integer/)      |
+| 13      | Best Time to Buy and Sell Stock                     | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)           |
+| 14      | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array                     | [Leetcode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)           |
+| 15      | https://leetcode.com/problems/degree-of-an-array                     | [Leetcode](https://leetcode.com/problems/degree-of-an-array)           |
+| 16     | Find Winner on a Tic Tac Toe Game                     | [Leetcode](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)           |
+| 17      | The K Weakest Rows in a Matrix                     | [Leetcode](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)           |
+| 18      | Minimum Cost to Move Chips to The Same Position                     | [Leetcode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)           |
+| 19      | Cells with Odd Values in a Matrix                     | [Leetcode](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)           |
+| 20      | Missing number in array                     | [Leetcode](https://leetcode.com/problems/available-captures-for-rook)           |
+| 21      | Available Captures for Rook                     | [Leetcode](https://leetcode.com/problems/available-captures-for-rook)           |
+| 22      | Positions of Large Groups                     | [Leetcode](https://leetcode.com/problems/positions-of-large-groups)           |
+| 23      | Rank Transform of an Array                     | [Leetcode](https://leetcode.com/problems/rank-transform-of-an-array)           |
+| 24      | Shift 2D Grid                     | [Leetcode](https://leetcode.com/problems/shift-2d-grid)           |
 
 ### LinkedList
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
@@ -124,6 +137,36 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 3      | Kth Largest Element in a Stream          | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                    |
 | 4      | Sort a nearly sorted (or K sorted) array |         [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
 | 5      | Kth Smallest Element in a Sorted Matrix  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
+
+### Graph
+| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
+|--------|----------------------------------------------------------|-----------------------------|
+| 1      | Arrival and Departure time of vertices using DFS                     | [GFG](https://www.geeksforgeeks.org/topological-sorting-using-departure-time-of-vertex/#:~:text=What%20is%20Arrival%20Time%20%26%20Departure,we%20are%20ready%20to%20backtrack.)           |
+| 2      | Bipartite Graph                     |  [GFG](https://www.geeksforgeeks.org/bipartite-graph/)           |
+| 3     | Minimum number of moves to win Snake and Ladder game                |  [LeetCode](https://leetcode.com/problems/snakes-and-ladders/) , [GFG](https://www.geeksforgeeks.org/snake-ladder-problem-2/) ,         |
+| 4     | Topological Sort for DAG               |   [GFG](https://www.geeksforgeeks.org/topological-sorting/)        |
+| 5     | Transitive Closure for a Graph              |        [GFG](https://www.geeksforgeeks.org/transitive-closure-of-a-graph-using-dfs/)      |
+| 6     | Check if undirected graph contains cycle or not               |  [GFG](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph-using-bfs/)    |
+| 7     | Total number of paths in given digraph from given source to destination having exactly m edges              |        [GFG](https://www.geeksforgeeks.org/count-possible-paths-source-destination-exactly-k-edges/)        |
+| 8     | Determine if an undirected graph is a Tree (Acyclic Connected Graph)              |        [GFG](https://www.geeksforgeeks.org/check-given-graph-tree/) |
+| 9     | 2-Edge Connectivity in a Graph              |   [Techie Delight](https://www.techiedelight.com/2-edge-connectivity-graph/)  |
+| 10     | 2-Vertex Connectivity in the graph               |   [techie Delight](https://www.techiedelight.com/2-vertex-connectivity-graph/)        |
+| 11     | Check if given digraph is a DAG (Directed Acyclic Graph) or not              |   [GFG](https://www.techiedelight.com/check-given-digraph-dag-directed-acyclic-graph-not/#:~:text=A%20digraph%20is%20a%20DAG,%5D%20%3C%20departure%5Bv%5D.)  |
+| 12     | Disjoint-Set Data Structure (Union Find Algorithm)               |   [GFG](https://www.geeksforgeeks.org/union-find/#:~:text=A%20disjoint%2Dset%20data%20structure,a%20particular%20element%20is%20in.)        |
+| 13     | Chess Knight Problem | Find Shortest path from source to destination               |   [GFG](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/)   ,  [Leetcode](https://leetcode.com/discuss/interview-question/322837/Google-or-Onsite-interview-or-Knight's-Shortest-Path-on-an-Infinite-Chessboard)     |
+| 14     | Check if given Graph is Strongly Connected or not               |   [GFG](https://www.geeksforgeeks.org/connectivity-in-a-directed-graph/)        |
+| 15     | Union-Find Algorithm for Cycle Detection in a graph               |   [GFG](https://www.geeksforgeeks.org/union-find/)        |
+| 16     | Kruskal’s Algorithm for finding Minimum Spanning Tree               |   [GFG](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)        |
+| 17     | Single-Source Shortest Paths — Dijkstra’s Algorithm               |   [GFG](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)        |
+| 18     | All-Pairs Shortest Paths — Floyd Warshall Algorithm               |   [GFG](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)        |
+| 19     | Find Cost of Shortest Path in DAG using one pass of Bellman-Ford               |   [GFG](https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/)        |
+| 20     | Least Cost Path in Weighted Digraph using BFS               |   [Techie Delight](https://www.techiedelight.com/least-cost-path-weighted-digraph-using-bfs/#:~:text=least%20cost%20path%20from%20source%20to%20destination%20is%20%5B0%2C%204,of%20vertices%20in%20the%20graph.)        |
+| 21     | Find maximum cost path in graph from given source to destination               |   [GFG](https://www.geeksforgeeks.org/maximum-cost-path-in-an-undirected-graph-such-that-no-edge-is-visited-twice-in-a-row/)        |
+| 22     | Determine negative-weight cycle in a graph               |   [GFG](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)        |
+| 23     | Print all k-colorable configurations of the graph (Vertex coloring of graph)               |   [Techie Delight](https://www.techiedelight.com/print-k-colorable-configurations-graph-vertex-coloring-graph/)        |
+| 24     | Print all Hamiltonian path present in a graph               |   [GFG](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/)        |
+| 25     | Greedy coloring of graph               |   [GFG](https://www.geeksforgeeks.org/graph-coloring-set-2-greedy-algorithm/)        |
+
 
 ## Algorithms
 
