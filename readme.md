@@ -17,6 +17,10 @@ I have tried my best to sort all those problems for you and ordered them as well
   - [Dynamic Programming](#dynamic-programming)
 
 ## Data Structures
+ - [ ] Tutorials:
+     - [MIT 6.006 Introduction to Algorithms, Fall 2011 (video)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+     - [mycodeschool (video)](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+     - [UCSanDiegoX's Algorithms and Data Structures](https://www.edx.org/course/data-structures-fundamentals)
 
 ### Array
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
@@ -69,7 +73,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              |
 |--------|----------------------------------------------------------|-------------------------------|
 | 1      | Generate binary numbers from 1 to n                      | [GFG](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)                     |
-| 2      | Minimum time required to rot all Oranges                 | [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)                                      |
+| 2      | Minimum time required to rot all Oranges                 | [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0) , [LeetCode](https://leetcode.com/problems/rotting-oranges/)                                     |
 | 3      | First non repeating character in a stream                | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)           |
 | 4      | Circular tour                                            | [GFG](https://practice.geeksforgeeks.org/problems/circular-tour/1) ,      [LeetCode](https://leetcode.com/problems/gas-station/)                                                        |
 | 5      | Sliding Window Maximum                                   | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) , [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/)                                     |
@@ -121,6 +125,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 4      | Sort a nearly sorted (or K sorted) array |         [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
 | 5      | Kth Smallest Element in a Sorted Matrix  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
 
+
+
 ## Algorithms
 
 ### Binary Search
@@ -162,3 +168,19 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 22     | Interleaving String                                  | [LeetCode](https://leetcode.com/problems/interleaving-string/) , [InterviewBit](https://www.interviewbit.com/problems/interleaving-strings/)                                              |
 | 23     | Matrix Chain Multiplication                          | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                            |
 | 24     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                |
+
+## Graph
+| **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                        |
+|--------|------------------------------------------------------|-----------------------------------------|
+| 1     | Region in Binary Matrix                                      | [InterviewBit](https://www.interviewbit.com/problems/region-in-binarymatrix/) , [GFG](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1)                                                          |
+| 2     | Rotting Oranges                                    | [LeetCode](https://leetcode.com/problems/rotting-oranges/)  , [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)                                              |
+| 3     | Number of Islands                             | [LeetCode](https://leetcode.com/problems/number-of-islands/)  , [GFG](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                               |
+| 4      | Find whether path exist                                  | [InterviewBit](https://www.interviewbit.com/problems/path-in-directed-graph/) , [GFG](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                                      |
+| 5      | Cycle in Undirected Graph                           | [InterviewBit](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) , [GFG](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                       |
+| 6      | Cycle in Directed Graph                     | [InterviewBit](https://www.interviewbit.com/problems/cycle-in-directed-graph/) , [LeetCode](https://leetcode.com/problems/course-schedule/) |
+| 7      | Topological Sort                       | [LeetCode](https://leetcode.com/problems/course-schedule-ii/)                                     |
+| 8     | Snakes and Ladders                                        |   [LeetCode](https://leetcode.com/problems/snakes-and-ladders/) , [InterviewBit](https://www.interviewbit.com/problems/snake-ladder-problem/)                                                           |
+| 9     | Alien Dictionary                                      | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                                          |
+| 10     | Word Search                                    | [LeetCode](https://leetcode.com/problems/word-search/)  , [InterviewBit](https://www.interviewbit.com/problems/word-search-board/)                                              |
+| 11     | Word Search 2                             | [LeetCode](https://leetcode.com/problems/word-search-ii/)  , [GFG](https://practice.geeksforgeeks.org/problems/word-boggle4143/1/?category[]=Graph&category[]=Graph&page=2&query=category[]Graphpage2category[]Graph)                                               |
+| 12      | Word Ladder                                  | [InterviewBit](https://www.interviewbit.com/problems/word-ladder-i/) , [LeetCode](https://leetcode.com/problems/word-ladder/)                                                    |
