@@ -113,7 +113,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 1      | Insert a Node in BST          |      [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                    |
 | 2      | Delete a Node from BST        |                  [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)                                                |
 | 3      | Lowest common ancestor in BST |   [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                      |
-| 4      | Inorder Successor in BST      |  [LeetCode](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)                             |
+| 4      | Inorder Successor in BST      |  [LeetCode](https://leetcode.com/problems/inorder-successor-in-bst/), [GFG](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)                             |
 | 5      | Kth Smallest node in BST       |        [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                       |
 
 ### Heap and Priority Queue
