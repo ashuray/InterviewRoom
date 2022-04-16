@@ -82,9 +82,9 @@ I have tried my best to sort all those problems for you and ordered them as well
 | **ID** | **PROBLEM STATEMENT**                                   | **PROBLEM LINK**               |
 |--------|---------------------------------------------------------|--------------------------------|
 | 1      | Determine Height of a binary tree                       |  [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) , [InterviewBit](https://www.interviewbit.com/problems/max-depth-of-binary-tree/)                                   |
-| 2      | Inorder Traversal                                       | [InterviewBit](https://www.interviewbit.com/problems/inorder-traversal/)                                          |
-| 3      | Preorder Traversal                                      |  [InterviewBit](https://www.interviewbit.com/problems/preorder-traversal/)                                         |
-| 4      | Postorder Traversal                                     |  [InterviewBit](https://www.interviewbit.com/problems/postorder-traversal/)                                        |
+| 2      | Inorder Traversal                                       | [InterviewBit](https://www.interviewbit.com/problems/inorder-traversal/) , [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                         |
+| 3      | Preorder Traversal                                      |  [InterviewBit](https://www.interviewbit.com/problems/preorder-traversal/) , [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                        |
+| 4      | Postorder Traversal                                     |  [InterviewBit](https://www.interviewbit.com/problems/postorder-traversal/) , [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                        |
 | 5      | Level Order Traversal                                   |  [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                  |
 | 6      | Level Order Traversal in Spiral Form                    | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) , [InterviewBit](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)                            |
 | 7      | Left and Right View of Binary Tree                      |   [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/)                                        |
