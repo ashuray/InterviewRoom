@@ -138,7 +138,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 4     | Pow(x,n)             | [LeetCode](https://leetcode.com/problems/powx-n/) , [InterviewBit](https://www.interviewbit.com/problems/implement-power-function/) |
 | 5    | Sqrt(n)             | [LeetCode](https://leetcode.com/problems/sqrtx/) , [InterviewBit](https://www.interviewbit.com/problems/square-root-of-integer/)   |
 | 6    | Matrix Search             | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) , [InterviewBit](https://www.interviewbit.com/problems/matrix-search/)   |
-| 6    | Median of Two Sorted Arrays             | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) , [InterviewBit](https://www.interviewbit.com/problems/median-of-array/)   |
+| 7    | Median of Two Sorted Arrays             | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) , [InterviewBit](https://www.interviewbit.com/problems/median-of-array/)   |
 
 
 ## Dynamic Programming
