@@ -119,7 +119,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 ### Heap and Priority Queue
 | **ID** | **PROBLEM STATEMENT**                    | **PROBLEM LINK**                              |
 |--------|------------------------------------------|-----------------------------------------------|
-| 1      | Median in a stream of integers           | [GFG](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)                             |
+| 1      | Median in a stream of integers           | [GFG](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0), [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/)                             |
 | 2      | Top K Frequent Elements in an Array      |    [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)                                            |
 | 3      | Kth Largest Element in a Stream          | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                    |
 | 4      | Sort a nearly sorted (or K sorted) array |         [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
