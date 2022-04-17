@@ -145,7 +145,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                        |
 |--------|------------------------------------------------------|-----------------------------------------|
 | 1     | Climbing Stairs                                      | [LeetCode](https://leetcode.com/problems/climbing-stairs/)                                                          |
-| 2     | Coin Sum Infinite                                    | [InterviewBit](https://www.interviewbit.com/problems/coin-sum-infinite/)                                                |
+| 2     | Coin Sum Infinite                                    | [InterviewBit](https://www.interviewbit.com/problems/coin-sum-infinite/), [LeetCode](https://leetcode.com/problems/coin-change/)                                                |
 | 3     | Min Cost Climbing Stairs                             | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                 |
 | 4      | Rod Cutting Problem                                  | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                                                      |
 | 5      | Longest Common Subsequence                           | [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/)                                         |
