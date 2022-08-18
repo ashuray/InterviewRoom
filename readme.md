@@ -25,7 +25,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 ### Array
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
 |--------|----------------------------------------------------------|-----------------------------|
-| 1      | Missing number in array                     | [Leetcode](https://leetcode.com/problems/missing-number/) ,  [GFG](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)           |
+| 1      | Missing number in array                     | [Leetcode](https://leetcode.com/problems/missing-number/) ,  [GFG](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)   , [Scaler Topics](https://www.scaler.com/topics/missing-number-in-array/)        |
 | 2      | Subarray with given sum                     |  [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)           |
 | 3     | 2 Sum                |  [LeetCode](https://leetcode.com/problems/two-sum/) , [InterviewBit](https://www.interviewbit.com/problems/2-sum/), [GFG](https://practice.geeksforgeeks.org/problems/key-pair/0) ,         |
 | 4     | Majority Element               |   [LeetCode](https://leetcode.com/problems/majority-element/)  , [InterviewBit](https://www.interviewbit.com/problems/majority-element/) , [GFG](https://practice.geeksforgeeks.org/problems/majority-element/0)      |
