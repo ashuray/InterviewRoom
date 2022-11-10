@@ -21,6 +21,7 @@ I have tried my best to sort all those problems for you and ordered them as well
      - [MIT 6.006 Introduction to Algorithms, Fall 2011 (video)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
      - [mycodeschool (video)](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
      - [UCSanDiegoX's Algorithms and Data Structures](https://www.edx.org/course/data-structures-fundamentals)
+     - [Data Structures and Algorithms](https://www.scaler.com/topics/data-structures/)
 
 ### Array
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
